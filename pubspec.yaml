@@ -1,0 +1,33 @@
+name: flash_chat1_1
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  animated_text_kit: ^1.3.1
+  cloud_firestore: ^0.12.10
+  firebase_core: ^0.4.1+5
+  firebase_auth: ^0.14.0+9
+  modal_progress_hud: ^0.1.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/

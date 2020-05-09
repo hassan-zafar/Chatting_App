@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "154031309658",
+    "firebase_url": "https://flashchat11.firebaseio.com",
+    "project_id": "flashchat11",
+    "storage_bucket": "flashchat11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154031309658:android:d34e003cac85ca12eb2963",
+        "android_client_info": {
+          "package_name": "beyondstudio.flash_chat1_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154031309658-bmfm906v3i1d7kc0khkuis2eevnra1v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKvDHOszTqyTTHxcuonn8cHfh_WAdkwVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154031309658-bmfm906v3i1d7kc0khkuis2eevnra1v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
